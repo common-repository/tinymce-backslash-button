@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TinyMCE Backslash Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-01 05:42+0900\n"
+"PO-Revision-Date: 2011-11-01 05:47+0900\n"
+"Last-Translator: redcocker <masa153@gmail.com>\n"
+"Language-Team: redcocker\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:/\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/tinymce-backslash-button\n"
+
+# description
+msgid "This plugin provides a TinyMCE button and Quicktag to enter backslash. Even when using Japanese or Korean font, backslash doesn't appear as Yen or Won mark."
+msgstr "このプラグインは、バックスラッシュを入力するボタンを標準のビジュアルエディターとHTMLエディターに追加し、日本語、韓国語フォント使用時にもバックスラッシュとして表示させることが出来ます。"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:110
+msgid "TinyMCE Backslash Button has successfully created new DB table.<br />If you upgraded to this version, some setting options may be added or reset to the default values.<br />Go to the <a href=\"options-general.php?page=tinymce-backslash-options\">setting panel</a> and configure TinyMCE Backslash Button now. Once you save your settings, this message will be cleared."
+msgstr "TinyMCE Backslash Buttonは、新しいデータベーステーブルの作成に成功しました。<br />以前のバージョンからアップデートした場合は、新しい設定オプションが追加されているかもしれません、<br /><a href=\"options-general.php?page=tinymce-backslash-options\">設定画面</a>で、TinyMCE Backslash Buttonの設定を行って下さい。一度、設定を保存すれば、このメッセージは消えます。"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:124
+msgid "Settings"
+msgstr "設定"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:180
+msgid "TinyMCE Backslash Button"
+msgstr "TinyMCE Backslash Button"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:202
+msgid "Backslash"
+msgstr "バックスラッシュ"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:205
+msgid "Insert Backslash"
+msgstr "バックスラッシュを挿入"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:219
+msgid "Cheatin&#8217; uh?"
+msgstr "間違いましたか？"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:242
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:250
+msgid "All settings were reset. Please <a href=\"options-general.php?page=tinymce-backslash-options\">reload the page</a>."
+msgstr "設定はリセットされました。 <a href=\"options-general.php?page=tinymce-backslash-options\">ページの再読込み</a>を実行して下さい。"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:260
+msgid "1. TinyMCE Button Settings"
+msgstr "１．TinyMCEボタンの設定"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:263
+msgid "Add TinyMCE Button"
+msgstr "TinyMCE ボタンを追加"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:266
+msgid "Enable/Disable TinyMCE button. It can help you to type backslash in Visual Editor."
+msgstr "有効化するとビジュアルエディターにバックスラッシュを入力するためのボタンが追加されます。"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:270
+msgid "Place the buttons in"
+msgstr "ボタンをツールバーの"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:273
+msgid "1st row"
+msgstr "1行目"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:274
+msgid "2nd row"
+msgstr "2行目"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:275
+msgid "3rd row"
+msgstr "3行目"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:276
+msgid "4th row"
+msgstr "4行目"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:277
+msgid "of TinyMCE toolbar."
+msgstr "に表示。 "
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:278
+msgid "Choose TinyMCE toolbar row which buttons will be placed in."
+msgstr "ボタンをTinyMCEのツールバーの何行目に表示するか選択します。"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:282
+msgid "2. Quicktag Button Settings"
+msgstr "２．Quicktagボタンの設定"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:285
+msgid "Add Quicktag Button"
+msgstr "Quicktagボタンを追加"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:288
+msgid "Enable/Disable Quicktag button. It can help you to type backslash in HTML Editor."
+msgstr "有効化するとHTMLエディターにバックスラッシュを入力するためのボタンが追加されます。"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:293
+msgid "Save Changes"
+msgstr "設定を保存"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:296
+msgid "3. Restore all settings to default"
+msgstr "３．設定のリセット"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:301
+msgid "Reset All Settings"
+msgstr "設定をリセット"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:304
+msgid "4. Your System Info"
+msgstr "４．システム情報"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:307
+msgid "Server OS:"
+msgstr "サーバーのOS:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:308
+msgid "PHP version:"
+msgstr "PHPのバージョン:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:309
+msgid "MySQL version:"
+msgstr "MySQLのバージョン:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:310
+msgid "WordPress version:"
+msgstr "WordPressのバージョン:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:311
+msgid "Site URL:"
+msgstr "サイトのURL:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:312
+msgid "WordPress URL:"
+msgstr "WordPressのURL:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:313
+msgid "WordPress language:"
+msgstr "WordPressのロケール:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:314
+msgid "WordPress character set:"
+msgstr "WordPressの文字コード:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:315
+msgid "WordPress theme:"
+msgstr "WordPressのテーマ:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:316
+msgid "TinyMCE Backslash Button version:"
+msgstr "TinyMCE Backslash Buttonのバージョン:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:317
+msgid "TinyMCE Backslash Button DB version:"
+msgstr "TinyMCE Backslash ButtonのDBバージョン:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:318
+msgid "TinyMCE Backslash Button URL:"
+msgstr "TinyMCE Backslash ButtonのURL:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:319
+msgid "Your browser:"
+msgstr "ブラウザ:"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:323
+msgid "To report a bug ,submit requests and feedback, "
+msgstr "バグの報告、ご要望、ご感想は、"
+
+#: wp-content/plugins/tinymce-backslash-button/tinymce-backslash-button.php:323
+msgid "Use <a href=\"http://wordpress.org/tags/tinymce-backslash-button?forum_id=10\">Forum</a> or <a href=\"http://www.near-mint.com/blog/contact\">Mail From</a>"
+msgstr "<a href=\"http://wordpress.org/tags/tinymce-backslash-button?forum_id=10\">フォーラム</a> または、<a href=\"http://www.near-mint.com/blog/contact\">メールフォーム</a>まで"
+
